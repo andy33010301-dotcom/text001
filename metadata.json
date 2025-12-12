@@ -1,0 +1,5 @@
+{
+  "name": "Modern Calculator",
+  "description": "A sleek, dark-themed standard calculator with history and memory functions built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
